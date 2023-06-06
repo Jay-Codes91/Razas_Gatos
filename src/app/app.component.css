@@ -1,0 +1,7 @@
+header {
+  background-color: #EF4444;
+}
+header .buscar {
+  height: -moz-min-content;
+  height: min-content;
+}/*# sourceMappingURL=app.component.css.map */

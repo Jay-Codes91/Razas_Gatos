@@ -1,0 +1,29 @@
+<h1 class="text-center mt-2 textDanger">Razas de Gatos</h1><br>
+
+<div class="container w-75 mx-auto p-4" id="contenedor">
+  <div class="row row-cols-xl-3 row-cols-lg-3 row-cols-md-2 row-cols-sm-1 row-cols-1 g-5">
+
+    <div class="col" *ngFor="let item of gatos | paginate: {
+        itemsPerPage: 6,
+        currentPage: page,
+        totalItems: gatos.length }">
+      
+        <div class="card">
+            <img src="{{item.img}}" class="card-img-top" alt="{{item.nombre}}" width="200" height="200">
+            <div class="card-body border-top border-black bgGrey">
+              <h5 class="card-title fw-bold">{{item.nombre}}</h5><br>
+              <div class="text-center">
+                 <a routerLink="/gato/{{item.id}}/{{item.nomRuta}}" class="btnDanger text-decoration-none" style="cursor: pointer;">Información</a>
+              </div>
+              
+            </div>
+          </div>
+     
+    </div><!---->
+  </div><br><br>
+  <pagination-controls class="my-pagination" 
+                      (pageChange)="page = $event"
+                      previousLabel="Anterior"
+                      nextLabel="Siguiente">
+      </pagination-controls>
+</div>

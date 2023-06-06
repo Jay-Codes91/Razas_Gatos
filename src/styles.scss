@@ -1,1 +1,240 @@
-/* You can add global styles to this file, and also import other style files */
+//Fuentes
+
+$fuente1: 'Comic Neue', cursive; //comic neue Ligth 300
+$fuente2: 'Raleway', sans-serif; //Raleway Ligth 300
+
+//Colores
+$blueA400: rgb(41, 121, 255);
+$blueA400A: rgb(41, 121, 255, 0.8);
+$blueA200D: rgb(144, 202, 249);
+$deepPurpleA400: rgb(101, 31, 255);
+$deepPurpleA400A: rgb(101, 31, 255, 0.8);
+$deepPurpleA100D: rgb(179, 136, 255);
+$cyan400: rgb(38, 198, 218);
+$cyan400A: rgb(38, 198, 218, 0.8);
+$cyan200D: rgb(128, 222, 234);
+$ligthGreen400: rgb(156, 204, 101);
+$ligthGreen400A: rgb(156, 204, 101, 0.8);
+$ligthGreen200D: rgb(197, 225, 165);
+$Amber500: rgb(255, 193, 7);
+$Amber500A: rgb(255, 193, 7, 0.8);
+$Amber200D: rgb(255, 224, 130);
+$red400: rgb(239, 83, 80);
+$red400A: rgb(239, 83, 80, 0.8);
+$red200D: rgb(239, 154, 154);
+$white: rgb(255, 255, 255);
+$Grey: rgb(204, 204, 204);
+$GreyA: rgb(204, 204, 204, 0.8);
+$Grey200D: rgb(238, 238, 238);
+:root{
+    --colorPrincipal: #{$blueA400};
+    --colorPrincipalAlpha: #{$blueA400A};
+    --colorPrincipalDisabled: #{$blueA200D};
+    --colorSecondary: #{$deepPurpleA400};
+    --colorSecondaryAlpha: #{$deepPurpleA400A};
+    --colorSecondaryDisabled: #{$deepPurpleA100D};
+    --colorAlternative: #{$cyan400};
+    --colorAlternativeAlpha: #{$cyan400A};
+    --colorAlternativeDisabled: #{$cyan200D};
+    --colorSuccess: #{$ligthGreen400};
+    --colorSuccessAlpha: #{$ligthGreen400A};
+    --colorSuccessDisabled: #{$ligthGreen200D};
+    --colorWarning: #{$Amber500};
+    --colorWarningAlpha: #{$Amber500A};
+    --colorWarningDisabled: #{$Amber200D};
+    --colorDanger: #{$red400};
+    --colorDangerAlpha: #{$red400A};
+    --colorDangerDisabled: #{$red200D};
+    --colorWhite: #{$white};
+    --colorGrey: #{$Grey};
+    --colorGreyAlpha: #{$GreyA};
+    --colorGreyDisabled: #{$Grey200D};
+    --fontPrincipal: #{$fuente1};
+    --fontAlternative: #{$fuente2};
+}
+
+*{
+    font-family: var(--fontAlternative);
+}
+
+//Prueba
+.div{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+thead{
+    background-color: var(--colorGrey);
+    text-align: center;
+}
+
+tbody{text-align: center;}
+
+.modal-header {
+    background-color: var(--colorPrincipal);
+    color: var(--colorWhite);
+}
+  
+.modal-footer {
+    background-color: var(--colorGrey);
+}
+  
+.offcanvas-header {
+    background-color: var(--colorPrincipal);
+    color: var(--colorWhite);
+}
+
+@mixin botones{
+    padding: 7px 12px 7px 12px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+            box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.textPrincipal{
+   color: var(--colorPrincipal);
+}
+
+.textSecondary{
+    color: var(--colorSecondary);
+}
+
+.textAlternativo{
+    color: var(--colorAlternative);
+}
+
+.textSuccess{
+    color: var(--colorSuccess);
+}
+
+.textWarning{
+  color: var(--colorWarning);
+}
+
+.textDanger{
+    color: var(--colorDanger);
+}
+
+.bgPrincipal{
+    background-color: var(--colorPrincipal);
+    color: var(--colorWhite);
+}
+
+.bgSecondary{
+    background-color: var(--colorSecondary);
+    color: var(--colorWhite);
+}
+
+.bgAlternativo{
+    background-color: var(--colorAlternative);
+}
+
+.bgSuccess{
+    background-color: var(--colorSuccess);
+}
+
+.bgWarning{
+    background-color: var(--colorWarning);
+}
+
+.bgDanger{
+    background-color: var(--colorDanger);
+    color: var(--colorWhite);
+}
+
+.bgGrey{
+    background-color: var(--colorGrey);
+}
+
+//Botones
+
+.btnPrimary{
+    @include botones();
+    background-color: var(--colorPrincipal);
+    color: var(--colorWhite);
+    &:hover{
+      background-color: var(--colorPrincipalAlpha);
+    }
+    &:disabled{
+      background-color: var(--colorPrincipalDisabled);
+    }
+}
+
+.btnSecondary{
+    @include botones();
+    background-color: var(--colorSecondary);
+    color: var(--colorWhite);
+    &:hover{
+      background-color: var(--colorSecondaryAlpha);
+    }
+    &:disabled{
+      background-color: var(--colorSecondaryDisabled)
+    }
+}
+
+.btnAlternative{
+    @include botones();
+    background-color: var(--colorAlternative);
+    &:hover{
+       background-color: var(--colorAlternativeAlpha);
+    }
+    &:disabled{
+        background-color: var(--colorAlternativeDisabled)
+    }
+}
+
+.btnSuccess{
+    @include botones();
+    background-color: var(--colorSuccess);
+    &:hover{
+      background-color: var(--colorSuccessAlpha);
+    }
+    &:disabled{
+      background-color: var(--colorSuccessDisabled)
+    }
+}
+
+.btnWarning{
+    @include botones();
+    background-color: var(--colorWarning);
+    &:hover{
+      background-color: var(--colorWarningAlpha);
+    }
+    &:disabled{
+        background-color: var(--colorWarningDisabled)
+    }
+}
+
+.btnDanger{
+    @include botones();
+    background-color: var(--colorDanger);
+    color: var(--colorWhite);
+    &:hover{
+       background-color: var(--colorDangerAlpha);
+    }
+    &:disabled{
+       background-color: var(--colorDangerDisabled);
+    }
+}
+
+.btnGrey{
+    @include botones();
+    background-color: var(--colorGrey);
+    &:hover{
+      background-color: var(--colorGreyAlpha);
+    }
+    &:disabled{
+        background-color: var(--colorGreyDisabled);
+    }
+}
+
+

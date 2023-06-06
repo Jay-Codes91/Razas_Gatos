@@ -1,0 +1,9 @@
+$fondo: #EF4444; 
+
+header{
+  background-color: $fondo;
+
+  .buscar{
+    height: min-content;
+  }
+}

@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "nombre": "Abisinio",
+        "nomRuta": "Abisinio",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0044_Abyssinian.webp?itok=wyAZZ8_5",
+        "info": "Los abisinios son gatos elegantes de tamaño mediano con un cuerpo ágil y fuerte, y patas esbeltas. Tienen la cabeza cuneiforme redondeada, con pequeños mechones característicos en las puntas de las orejas y ojos grandes y almendrados. Su pelaje corto y ceñido al cuerpo tiene un aspecto característico, que se debe a la presencia de varias franjas de color en cada pelo. El color más conocido es el cobrizo, pero hay algunos otros."
+    },
+
+    {
+        "id": 2,
+        "nombre": "Americano de pelo duro",
+        "nomRuta": "Americano_de_pelo_duro",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0043_American_wirehair_OG.webp?itok=6oW-d-XN",
+        "info": "Como su propio nombre indica, lo más característico de esta raza es su pelaje. El gato americano de pelo duro es grande y tiene un pelaje duro, elástico y áspero; cada pelo, de tamaño corto o mediano, es fino y encrespado o rizado. Los bigotes suelen ser rizados. El alcance completo del «rizado» no se manifiesta hasta que el gato es adulto. Puede que haya gatitos con un pelaje muy rizado que luego cambien a un pelo ondulado al crecer, y viceversa. Pueden presentar todo tipo de colores, dibujos y manchas."
+    },
+
+    {
+        "id": 3,
+        "nombre": "Asiático",
+        "nomRuta": "Asiático",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0042_Asian_OG.webp?itok=3TV_STgA",
+        "info": "Los gatos asiáticos tienen un tamaño mediano a grande, un cuerpo bastante musculoso y una cola que se estrecha y termina en una punta redondeada. Las hembras son mucho más pequeñas y delicadas que los machos. La cabeza es cuneiforme y la parte superior es ligeramente redondeada; las orejas son de tamaño mediano y están bastante separadas, y los ojos son grandes y tienen un contorno plateado. El pelaje, que parece de muaré, es corto, fino y se ciñe al cuerpo. Esta raza presenta una amplia gama de colores y patrones."
+    },
+
+    {
+        "id": 4,
+        "nombre": "Azul Ruso",
+        "nomRuta": "Azul_Ruso",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0012_Russian_blue.webp?itok=RIxcHaXl",
+        "info": "El azul ruso es un gato de tamaño mediano a grande, con un cuerpo grácil y elegante y unas patas largas y delgadas. El gato camina como si fuera de puntillas. Tiene la cabeza cuneiforme con mejillas pronunciadas y grandes orejas. Sus intensos ojos verdes tienen una forma almendrada y están bastante separados. El pelaje es doble, con un manto inferior muy denso, y es de corto, fino y suave. La textura del pelaje del gato azul ruso es muy distinta a la de cualquier otra raza y es un rasgo verdaderamente característico. Aunque se le denomine azul ruso, también se pueden encontrar algunos ejemplares negros y blancos. En la variedad azul más conocida, el color del pelaje es un azul claro uniforme con un brillo plateado."
+    },
+
+    {
+        "id": 5,
+        "nombre": "Balinés",
+        "nomRuta": "Balinés",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0040_Balinese.webp?itok=g34u2wKi",
+        "info": "El gato balinés es un gato bonito y elegante, de tamaño mediano, con las mismas líneas estilizadas y esbeltas del siamés. El cuerpo es grácil y esbelto, la cabeza tiene un perfil recto y tiene grandes orejas, que pueden presentar mechones. Tiene un pelaje sedoso y vaporoso que puede medir de uno a varios centímetros de longitud y cae lacio sobre el cuerpo. La cola es larga y emplumada, con pelo mucho más largo que en el resto del cuerpo. El balinés no tiene un manto inferior lanoso, por lo que se clasifica oficialmente como «de pelo semilargo». Los ojos son de un tono azul brillante y de aire oriental por forma y disposición. El pelaje se caracteriza por mostrar el mismo color en orejas, cara, patas, pies y cola, con un morro como la que tienen los siameses. En EE. UU., los gatos de tipo balinés con manchas adicionales a las que se aceptan para los balineses se conocen como javaneses."
+    },
+
+    {
+        "id": 6,
+        "nombre": "Bengalí",
+        "nomRuta": "Bengalí",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0039_Bengal.webp?itok=AMjx_SAl",
+        "info": "El bengalí es un gato grande, elegante y muy musculoso, con una cola espesa que suele llevar baja. El aspecto salvaje del bengalí lo realza su característico pelaje: moteado o marmolado, espeso y suntuoso. Su cabeza ancha tiene orejas pequeñas y mejillas pronunciadas, los ojos tienen un contorno negro y forma almendrada. La cola es gruesa, aunque se estrecha hacia la punta, de color negro. No hay ninguna otra raza felina que muestre el efecto brillo de oro o de perla que se encuentra en algunos bengalíes. Estos, además, pueden ser muy exigentes por sus altos niveles de actividad."
+    },
+
+    {
+        "id": 7,
+        "nombre": "Birmano",
+        "nomRuta": "Birmano",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0038_Birman.webp?itok=Baqcryyv",
+        "info": "El birmano es un gato de pelo semilargo de color más oscuro hacia las marcas distales, la cara, las patas, las orejas y la cola, y algo más claro en el resto del cuerpo. Es un gato relativamente grande, con un cuerpo rechoncho y de patas cortas. El birmano tiene los ojos azules y las cuatro zarpas de color blanco puro. Los «calcetines» delanteros cubren solo las falanges, pero los traseros son más largos. La cabeza es ancha y redonda, con orejas de tamaño medio. Los birmanos presentan muchos colores distintos."
+    },
+
+    {
+        "id": 8,
+        "nombre": "Bobtail japonés de pelo corto",
+        "nomRuta": "Bobtail_japonés_de_pelo_corto",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0026_Japanese_bobtail_shorthair.webp?itok=VPr06AzN",
+        "info": "El bobtail japonés tiene una forma elegante y una musculatura bien desarrollada. La cabeza está cincelada con delicadeza, tiene unas orejas grandes en posición vertical y unos grandes ojos redondos con una inclinación pronunciada. En posición normal, la cola se extiende entre 5 y 8 cm y, cuando el gato está relajado, este lleva la cola en posición vertical. El pelo de la cola suele ser más grueso y largo que en el resto del pelaje y crece en todas las direcciones, creando así el efecto de un pompón o cola de conejo. Los bobtails pueden ser de pelo corto o largo. El pelaje es suave y sedoso y puede ser de muchos colores. El color preferido en Japón es el tricolor, o carey y blanco (conocido como Mi-ke), una mezcla de negro, rojo y blanco, que simboliza la suerte (esta combinación suele encontrarse solo en las hembras)."
+    },
+
+    {
+        "id": 9,
+        "nombre": "Bobtail japonés de pelo largo",
+        "nomRuta": "Bobtail_japonés_de_pelo_largo",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0027_Japanese_bobtail_longhair.webp?itok=fiE_U9rA",
+        "info": "El bobtail japonés tiene una forma elegante y una musculatura bien desarrollada. La cabeza está cincelada con delicadeza, tiene unas orejas grandes en posición vertical y unos grandes ojos redondos con una inclinación pronunciada. En posición normal, la cola se extiende entre 5 y 8 cm y, cuando el gato está relajado, este lleva la cola en posición vertical. El pelo de la cola suele ser más grueso y largo que en el resto del pelaje y crece en todas las direcciones, creando así el efecto de un pompón o cola de conejo. El bobtail japonés puede ser de pelo corto o largo. El pelaje es suave y sedoso y puede ser de muchos colores. El color preferido en Japón es el tricolor, o carey y blanco (conocido como Mi-ke), una mezcla de negro, rojo y blanco, que simboliza la suerte (esta combinación suele encontrarse solo en las hembras)."
+    },
+
+    {
+        "id": 10,
+        "nombre": "Bombay",
+        "nomRuta": "Bombay",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0037_Bombay_OG.webp?itok=2fSOF3I2",
+        "info": "El bombay es un gato de constitución media y un pelaje negro azabache muy brillante que parece charol. El cráneo es ligeramente redondeado, tiene las orejas redondeadas y un hocico ancho. Sus preciosos ojos de color cobre o dorado están bastante separados y son intensos y expresivos. El cuerpo es firme y musculoso, con un lomo recto y fuerte. La trufa y el contorno del ojo son negros y las almohadillas de las patas son negras o de color marrón oscuro."
+    },
+
+    {
+        "id": 11,
+        "nombre": "Bosque de Noruega",
+        "nomRuta": "Bosque_de_Noruega",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0019_Norwegian_forest.webp?itok=9cW6S9V3",
+        "info": "El bosque de Noruega es de mayor tamaño que el gato medio. Es una raza elegante con un pelaje semilargo (aunque es un poco más corto en verano). Tiene un cuerpo largo, musculoso y de constitución fuerte, con una estructura ósea sólida. Tiene las patas largas y la cola tupida. La cabeza es larga y triangular con un perfil recto y orejas altas con un mechón en la punta. Un manto superior liso y brillante le cubre el manto inferior lanoso que además es repelente al agua. Un gato con el pelaje completo tiene gorguera, collarín, calzón y hasta mechones de pelo entre los dedos. El bosque de Noruega puede presentar cualquier color excepto chocolate, lila o el patrón siamés. También puede tener cualquier cantidad de marcas blancas en las zarpas, pecho, vientre o cara. Los ojos pueden ser de cualquier color."
+    },
+
+    {
+        "id": 12,
+        "nombre": "Bosque de Siberia",
+        "nomRuta": "Bosque_de_Siberia",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0007_Siberian_forest_OG.webp?itok=z9_XVdUh",
+        "info": "El bosque de Siberia es un gato bastante grande, de constitución musculosa y torso en forma de barril. Tiene un pelaje largo y denso y la cabeza es, en cierto modo, cuneiforme, aunque presenta contornos redondeados y unos ojos son muy expresivos. La impresión física general es de fortaleza y solidez. Los pelos más largos del triple pelaje son claros cerca de la raíz y se van oscureciendo hacia la punta. Esto le da un cierto brillo al pelaje cuando el gato se mueve. Aunque el color más habitual es el pardo atigrado, un bosque de Siberia puede presentar cualquier patrón, color o combinación de colores, así como un liláceo liso o chocolate liso."
+    }
+]
