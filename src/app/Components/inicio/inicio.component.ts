@@ -13,6 +13,7 @@ export class InicioComponent implements OnInit, IGetAllGatos {
   page: number = 1;
   count: number = 0;
   tableSize: number = 6;
+ 
   constructor(private _ser: DatosService) { }
   
 

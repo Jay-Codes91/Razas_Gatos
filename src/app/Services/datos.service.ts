@@ -19,5 +19,10 @@ export class DatosService {
     return data[id-1];
   }
 
+
+  getNomGato(nombre: any){
+    return data[nombre];
+  }
+
   
 }

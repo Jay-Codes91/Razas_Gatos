@@ -1,5 +1,6 @@
 export interface IGetGatosHeader{
     getNomGatos(): void;
+    buscar(id: any): void;
 }
 
 export interface IGetAllGatos{
