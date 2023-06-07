@@ -285,6 +285,79 @@
         "nomRuta": "Savannah",
         "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0011_Savannah_OG.webp?itok=41rzmU8q",
         "info": "El savannah es un gato alto y esbelto de patas largas. Su tamaño final depende de lo próxima que esté esa cría a los cruces de primera generación, ya que las primeras generaciones son bastante grandes. Los machos savannah tienden a ser más grandes que las hembras. A causa de los factores aleatorios de la genética híbrida del savannah, puede haber una importante variación de tamaño, incluso en una misma camada. El aspecto general de un savannah depende en gran medida de su generación. Suelen ser moteados, pero también pueden presentar patrones clásicos o marmolados, coloración nevada y azul u otros colores diluidos. Las orejas son altas, ahuecadas, redondeadas y erectas (en la parte posterior tienen una banda central clara bordeada de negro, gris oscuro o marrón, lo que crea el efecto de un ojo), la nariz ancha y los ojos caídos. La cola es corta y presenta anillos negros, además de una punta negra lisa. Los ojos pueden ser verdes, marrones o dorados."
+    },
+
+    {
+        "id": 37,
+        "nombre": "Selkirk rex",
+        "nomRuta": "Selkirk_rex",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0009_Selkirk_rex.webp?itok=pUgIhU3N",
+        "info": "Es un gato de tamaño mediano a grande, con una osamenta fuerte y sólida que le da un peso sorprendente y un aspecto imponente. Tiene una constitución robusta, el hocico corto y la cabeza redondeada. El selkirk rex puede ser de pelo corto o pelo largo. Esta raza puede presentar los tres tipos de pelo posibles (el de guarda, el intermedio y el profundo) en el pelaje de un gato y los tres son ondulados, lo que proporciona al pelaje un tacto suave. La ondulación del pelaje varía con la edad, el género, el clima y la estación. En el selkirk rex de pelo largo, los rizos de la cola son plumosos y perpendiculares a la cola. El pelo de la gorguera es más largo y le enmarca la cara. Los selkirk rex pueden presentar todo los colores y patrones de pelaje."
+    },
+
+    {
+        "id": 38,
+        "nombre": "Siamés",
+        "nomRuta": "Siamés",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0008_Siamese.webp?itok=U-ksqqV_",
+        "info": "El siamés es un gato de tamaño mediano y cuerpo largo y flexible, que es grácil y elegante pero sin perder su aspecto musculoso. El cuerpo es equilibrado y atlético, las patas son esbeltas y las zarpas, pequeñas y ovaladas. Desde arriba, la cabeza recuerda a un triángulo que se estrecha en líneas rectas y termina en un hocico delgado. Las orejas son grandes y erguidas y están situadas de tal modo que siguen las líneas del triángulo. Los ojos tienen una forma oriental y se inclinan hacia la nariz. La cola es larga, estrecha y sin dobleces. El pelaje —corto, fino y ceñido al cuerpo— presenta un color principal pálido en todo el cuerpo, salvo en las marcas distales, mucho más oscuras. El color más oscuro se extiende únicamente a la zona del morro, las orejas, las patas y la cola, que son las partes más frías del cuerpo. Puede tener una amplia gama de colores. Independientemente de los colores y patrones del pelaje, el color de los ojos será siempre de un azul intenso brillante."
+    },
+
+    {
+        "id": 39,
+        "nombre": "Singapura",
+        "nomRuta": "Singapura",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0006_Singapura_OG.webp?itok=t0uI4nbt",
+        "info": "El singapura parece un abisinio pequeño. Tiene la cabeza redondeada con una hendidura evidente en los bigotes y un hocico ancho y corto. Las orejas son grandes y muy ahuecadas. Tiene los ojos grandes de forma almendrada y ligeramente inclinados que mantiene muy abiertos. Aunque es un gato de tamaño pequeño, su cuerpo es fornido y musculoso. La cola es delgada y tiene la punta roma. El pelaje es liso y corto, con bandas de negro, pardo o marfil en cada pelo. El pelo es más oscuro en el lomo, en la cola y en las patas. El pecho y el vientre son de un color marfil pálido. Los ojos pueden ser de tono avellana, verde o amarillo, con un contorno negro."
+    },
+
+    {
+        "id": 40,
+        "nombre": "Snowshoe",
+        "nomRuta": "Snowshoe",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0005_Snowshoe.webp?itok=opkahZr9",
+        "info": "El snowshoe es un gato de tamaño mediano, que combina la corpulencia sólida del americano de pelo corto con la elegancia grácil del gato siamés. La cabeza tiene forma de triángulo redondeado, los ojos son grandes e inclinados, y las orejas, bastante separadas, son largas y puntiagudas. El cuerpo es largo y atlético y el pelaje es corto y brillante. Las orejas, el hocico, las patas y la cola son mucho más oscuras que el resto del cuerpo. Los snowshoe pueden presentar tonos azules, pardo oscuro, lila y chocolate y las partes blancas abarcan menos de la tercera parte del gato. Todos los snowshoe tienen los ojos de un color azul intenso."
+    },
+
+    {
+        "id": 41,
+        "nombre": "Somalí",
+        "nomRuta": "Somalí",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0004_Somali.webp?itok=9z6Un0Gq",
+        "info": "El somalí es de constitución media: firme, ágil y musculado. La cabeza tiene forma de media cuña con contornos suaves y las orejas están bastante separadas y tienen mechones. Los ojos tienen forma almendrada y están bastante separados. Pueden ser de color ámbar, avellana o verde; cuanto más intenso sea el tono, mejor. Las patas son largas y tienen zarpas ovaladas con dedos copetudos. El pelaje es de longitud media y el pelo, fino y suave, es tupido, pero cae lacio sobre el cuerpo. Los adultos tienen gorguera y calzón, pero estos rasgos no se manifiestan en los gatitos. En cada pelo debería haber, por lo menos, tres bandas de oscurecimiento (llamado ticking) que dan lugar a seis secciones de contraste de color desde la raíz a la punta. El somalí puede presentar 28 colores. El más habitual es un pardo dorado intenso con pelaje de base albaricoque alternado con negro en cada pelo."
+    },
+
+    {
+        "id": 42,
+        "nombre": "Sphynx",
+        "nomRuta": "Sphynx",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0003_Sphynx.webp?itok=Mgup_yH5",
+        "info": "La característica principal del sphynx es que no tiene pelaje. Sin embargo, no quiere decir que carezca totalmente de pelo, sino que está cubierto de una capa de pelo fino muy parecida a la piel del melocotón. Este gato no tiene bigotes ni pestañas. La cabeza recuerda a la del devon rex. Tiene los ojos hundidos y con forma de limón. El cuerpo tiene una osamenta fina, aunque es musculoso y tiene un pecho fuerte. Las patas son largas y delgadas; las delanteras parecen arqueadas por la anchura del pecho. La cola es larga, estrecha y dura al tacto. Son cálidos y suaves al tacto, por lo que se han ganado el apodo de «bolsa de agua caliente de ante». Tiene arrugas en algunas partes de la cabeza, del cuerpo y de las patas, pero en el resto del cuerpo la piel es tersa. La pigmentación se ve claramente en la piel del sphynx. Se aceptan todos los patrones y colores de piel."
+    },
+
+    {
+        "id": 43,
+        "nombre": "Tiffanie",
+        "nomRuta": "Tiffanie",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0002_Tiffanie_OG_0.webp?itok=os5vEeX0",
+        "info": "El tiffanie tiene la constitución del burmés, pero con el pelaje más largo. La cabeza tiene forma cuneiforme y las orejas son de tamaño mediano a grande. La cola es larga y emplumada. Los ojos están bastante separados, la forma no es ni almendrada ni redondeada, y pueden ser de cualquier color del amarillo al verde. El cuerpo es firme y musculoso, con un lomo recto y fuerte."
+    },
+
+    {
+        "id": 44,
+        "nombre": "Tonquinés",
+        "nomRuta": "Tonquinés",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0001_Tonkinese.webp?itok=Pp37Z5AO",
+        "info": "El tonquinés es un gato de tamaño mediano, con la constitución típica del oriental, una cabeza suavemente redondeada y las orejas anchas y bastante separadas. Los ojos son más abiertos que los de la raza oriental clásica y el color abarca desde el verde al azul claro. Tiene un cuerpo bien equilibrado, firme y musculoso. El pelaje del tonquinés es corto, ceñido al cuerpo y de textura fina, suave y sedosa. Las orejas, el hocico, las patas y la cola son mucho más oscuras que el cuerpo y se funden suavemente con el color de este. El tonquinés puede presentar varios colores."
+    },
+
+    {
+        "id": 45,
+        "nombre": "Van turco",
+        "nomRuta": "Van_turco",
+        "img": "https://www.purina.es/sites/default/files/styles/ttt_image_930/public/2021-02/CAT%20BREED%20Hero%20Mobile_0000_Turkish_van_OG.webp?itok=dcxZsq34",
+        "info": "El van turco es un gato grande y musculoso, aunque elegante, con el cuerpo blanco y un color muy característico tanto en la cabeza como en la cola. Estos gatos tienen un aspecto equilibrado y fuerte. Sus grandes orejas están situadas en la parte alta de la cabeza y los ojos son grandes, ovalados y expresivos. El pelaje del van turco es largo, suave y sedoso y carece de manto inferior lanoso. Las zarpas tienen mechones y la cola parece un cepillo tupido. El cuerpo del van turco es prácticamente blanco tiza con manchas de color en la parte superior de la cabeza. La mancha de color de la cabeza está separada por una llama blanca vertical. A veces, aparecen pequeñas huellas de color por el cuerpo. Los ojos pueden ser de color ámbar o azul, o bien uno de cada color."
     }
+
 
 ]
