@@ -1,1 +1,9 @@
-/*# sourceMappingURL=gato.component.css.map */
+.card {
+  width: 35rem;
+  margin: auto;
+}
+@media screen and (max-width: 540px) {
+  .card {
+    width: 100%;
+  }
+}/*# sourceMappingURL=gato.component.css.map */

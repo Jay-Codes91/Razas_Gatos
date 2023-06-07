@@ -3,7 +3,32 @@ $fondo: #EF4444;
 header{
   background-color: $fondo;
 
+  .cont{
+    display: flex;
+    justify-content: space-between;
+    @media screen and (max-width: 540px){
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
   .buscar{
+    width: 18rem;
     height: min-content;
+    align-self: center;
   }
 }
+
+footer{
+  display: flex;
+  justify-content: space-between;
+  @media screen and (max-width: 540px){
+    flex-direction: column;
+    align-items: center;
+
+  }
+  h3{
+    margin-top: 10px;
+  }
+}
+

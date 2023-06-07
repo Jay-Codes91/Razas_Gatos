@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"gato.component.css"}
+{"version":3,"sources":["gato.component.scss","gato.component.css"],"names":[],"mappings":"AAAA;EACI,YAAA;EACA,YAAA;ACCJ;ADAI;EAHJ;IAIQ,WAAA;ECGN;AACF","file":"gato.component.css"}

@@ -1,18 +1,21 @@
-<header class="container-fluid d-flex p-2 justify-content-between">
-    <a routerLink="/" class="navbar-brand ms-3" data-bs-toggle="tooltip" data-bs-title="Razas de Gatos">
-        <img src="assets/icons/Gato_Logo.png" alt="Facebook" height="100"
-            width="100">
-    </a>
-
-    <div class="buscar input-group w-25 align-self-center me-2">
-        <select class="form-select" #buscador>
-            <option selected value="Buscar">Buscar Gato</option>
-            <option *ngFor="let item of gatos" value="{{item.id}}">{{item.nombre}}</option>
-          </select>
-        <button class="btnGrey" type="button" (click)="buscar(buscador.value)" >
-            <i class="fa-solid fa-magnifying-glass fa-xl"></i>
-        </button>
+<header class="container-fluid">
+    <div class="cont p-2">
+        <a routerLink="/" class="logo navbar-brand ms-3" data-bs-toggle="tooltip" data-bs-title="Razas de Gatos">
+            <img src="assets/icons/Gato_Logo.png" alt="Facebook" height="100"
+                width="100">
+        </a>
+    
+        <div class="buscar input-group me-2">
+            <select class="form-select" #buscador>
+                <option selected value="Buscar">Buscar Gato</option>
+                <option *ngFor="let item of gatos" value="{{item.id}}">{{item.nombre}}</option>
+              </select>
+            <button class="btnGrey" type="button" (click)="buscar(buscador.value)" >
+                <i class="fa-solid fa-magnifying-glass fa-xl"></i>
+            </button>
+        </div>
     </div>
+    
 </header>
 <router-outlet></router-outlet>
 
@@ -21,7 +24,7 @@
     <h5><b>Fuentes Consultadas: </b> <a href="https://www.purina.es/encuentra-mascota/razas-de-gato" target="_blank">Purina.es</a></h5>
 </div>
 
-<footer class=" container-fluid bgGrey p-4 mt-2 d-flex justify-content-between">
+<footer class=" container-fluid bgGrey p-4 mt-2">
     <img src="assets/icons/Huella_Gato.png" alt="Gato" width="100" height="100">
-   <h3 class=" align-self-center" style="margin-right: 400px;">Razas de Gatos, {{date | date: 'yyyy'}}</h3>
+   <h3 class=" align-self-center">Razas de Gatos, {{date | date: 'yyyy'}}</h3>
 </footer>
